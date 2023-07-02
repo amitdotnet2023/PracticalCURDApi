@@ -1,0 +1,17 @@
+E:\SVN Project\PracticalCURD\PracticalCURD_Application\bin\Debug\net6.0\PracticalCURD_Application.deps.json
+E:\SVN Project\PracticalCURD\PracticalCURD_Application\bin\Debug\net6.0\PracticalCURD_Application.runtimeconfig.json
+E:\SVN Project\PracticalCURD\PracticalCURD_Application\bin\Debug\net6.0\PracticalCURD_Application.dll
+E:\SVN Project\PracticalCURD\PracticalCURD_Application\bin\Debug\net6.0\PracticalCURD_Application.pdb
+E:\SVN Project\PracticalCURD\PracticalCURD_Application\bin\Debug\net6.0\PracticalCURD_Domain.dll
+E:\SVN Project\PracticalCURD\PracticalCURD_Application\bin\Debug\net6.0\PracticalCURD_Domain.pdb
+E:\SVN Project\PracticalCURD\PracticalCURD_Application\obj\Debug\net6.0\PracticalCURD_Application.csproj.AssemblyReference.cache
+E:\SVN Project\PracticalCURD\PracticalCURD_Application\obj\Debug\net6.0\PracticalCURD_Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\SVN Project\PracticalCURD\PracticalCURD_Application\obj\Debug\net6.0\PracticalCURD_Application.AssemblyInfoInputs.cache
+E:\SVN Project\PracticalCURD\PracticalCURD_Application\obj\Debug\net6.0\PracticalCURD_Application.AssemblyInfo.cs
+E:\SVN Project\PracticalCURD\PracticalCURD_Application\obj\Debug\net6.0\PracticalCURD_Application.csproj.CoreCompileInputs.cache
+E:\SVN Project\PracticalCURD\PracticalCURD_Application\obj\Debug\net6.0\PracticalCURD_Application.csproj.CopyComplete
+E:\SVN Project\PracticalCURD\PracticalCURD_Application\obj\Debug\net6.0\PracticalCURD_Application.dll
+E:\SVN Project\PracticalCURD\PracticalCURD_Application\obj\Debug\net6.0\refint\PracticalCURD_Application.dll
+E:\SVN Project\PracticalCURD\PracticalCURD_Application\obj\Debug\net6.0\PracticalCURD_Application.pdb
+E:\SVN Project\PracticalCURD\PracticalCURD_Application\obj\Debug\net6.0\PracticalCURD_Application.genruntimeconfig.cache
+E:\SVN Project\PracticalCURD\PracticalCURD_Application\obj\Debug\net6.0\ref\PracticalCURD_Application.dll
